@@ -1,0 +1,9 @@
+/* This file is for your main application css. */
+.itfs-logo {
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    background-image: url(/images/itfs_2.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+  }

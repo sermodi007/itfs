@@ -1,0 +1,11 @@
+/* This file is for your main application css. */
+.itfs-logo {
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    background-image: url(/images/Desert.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+  }
+
+/*# sourceMappingURL=app.css.map*/
